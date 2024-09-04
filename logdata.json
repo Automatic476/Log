@@ -1,0 +1,5 @@
+[
+    { "latitude": 36.0726, "longitude": -79.7920, "message": "Suspicious IP detected", "ip": "192.168.1.1" },
+    { "latitude": 36.0836, "longitude": -79.8030, "message": "Malicious traffic detected", "ip": "10.0.0.1" }
+]
+
